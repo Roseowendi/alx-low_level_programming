@@ -5,7 +5,7 @@
  *
  * Return: void
  */
- void print_alphabet(void)
+ void printf_alphabet()
 {
 char ch;
 for (ch = 'a'; ch <= 'z'; ch++)
